@@ -15,5 +15,3 @@ I've made a lot of different things from crafting immersive gaming experiences t
 **Web & Full-Stack** — Next.js · React · Node.js · Express.js · FastAPI · MongoDB · Tailwind CSS · Framer Motion · Three.js · Vite · Discord.js
 
 **Tools & Platforms** — Git · GitHub · Docker · Vercel · Roblox Studio · Bash/Shell · Jira · VS Code · npm
-
-Reach me here on GitHub.
